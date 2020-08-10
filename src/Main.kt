@@ -1,5 +1,4 @@
 fun main() {
-    // Se podria poner Personaje?
     val listaPersonajes : MutableList<Personaje> = mutableListOf()
 
     listaPersonajes.add(crearGandalf())
